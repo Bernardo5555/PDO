@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+header h1 {
+    padding:10px; 
+    max-width:217px; 
+    margin: 0 auto; 
+    color:blue;
+}
+header nav ul li {
+    display:inline-block;
+}
+header nav ul li a {
+    display:block; 
+    color:white; 
+    text-align:center; 
+    padding:14px 16px; 
+    background-color:gray;
+    text-decoration:none;
+}
